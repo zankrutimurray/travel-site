@@ -1,4 +1,4 @@
-# Numerous always-ignore extensions
+git# Numerous always-ignore extensions
 *.diff
 *.err
 *.orig
@@ -27,3 +27,4 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+.idea/
